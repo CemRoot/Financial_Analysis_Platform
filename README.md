@@ -1,7 +1,8 @@
 # Financial Analysis Platform
 
 <p align="center">
-  <img src="docs/images/logo.png" alt="Financial Analysis Platform Logo" width="200"/>
+  ![image](https://github.com/user-attachments/assets/45164dff-b663-4e98-95f3-9aee1a38edff)
+
 </p>
 
 [English](#english) | [Türkçe](#turkish)
