@@ -1,10 +1,10 @@
 # Financial Analysis Platform
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/45164dff-b663-4e98-95f3-9aee1a38edff)
+  ![image](https://github.com/user-attachments/assets/1538bd65-a81e-42db-a704-4ccc1bd18477)
+
 
 </p>
-![image](https://github.com/user-attachments/assets/08542082-2784-4fd0-a387-d81ab06d83f2)
 
 [English](#english) | [Türkçe](#turkish)
 
