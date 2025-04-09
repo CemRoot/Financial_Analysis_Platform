@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/static
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Frontend build
+/frontend/build/
+/frontend/dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Google Cloud API
+*.json
+cafinalproject-*.json
+
+# ML models and cache
+/backend/ml_models/
+/backend/ml_cache/
+*.h5
+*.pkl
+*.joblib
+*.model
+
+# Database backups
+*.sql
+*.dump
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.directory
+.Trash-*
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Test coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Local batch files, scripts
+*.bat
+*.sh
+!start_services.sh
+
+# Specific sensitive data files we want to make sure are never committed
+cafinalproject-e36d9c3fead7.json 
